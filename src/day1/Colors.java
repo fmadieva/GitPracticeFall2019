@@ -5,5 +5,7 @@ public class Colors {
 
         String[] colors = {"red", "blue", "green","yellow"};
 
+        String faveColor = "pink, purple and royal blue";
+
     }
 }
